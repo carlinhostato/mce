@@ -1,0 +1,6 @@
+<form action=" " method="POST" class="nk-mchimp validate">
+                            <input type="text" value="" name="email" class="required email form-control" placeholder="Email *"> <br>
+                            <input type="checkbox" id="remember_me" value="" required> &nbsp Li a política ... <br
+                            <p align="right"><input type="submit" class="nk-btn nk-btn-color-white link-effect-4 float-right" name="enviar_newsletter" value="Subscribe"> </p>
+
+                    </form>	

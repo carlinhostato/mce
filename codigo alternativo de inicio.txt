@@ -1,0 +1,14 @@
+  <div id="slider" class="sl-slider-wrapper demo-2">
+        <div class="sl-slider">
+          <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+            <div class="sl-slide-inner">
+              <div class="bg-img bg-img-1">
+              </div>
+              <h2><strong>MCE</strong> Aplicativo</h2>
+              <blockquote>
+                <p>
+                  The application will allow any user to report problems that arise in the city of Espinho.
+                </p>
+              </blockquote>
+            </div>
+          </div>
